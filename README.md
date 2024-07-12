@@ -1,6 +1,8 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Truong Nguyen 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 ## About Me
 
@@ -38,4 +40,3 @@ Here are a few projects I've worked on:
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - [Twitter](https://twitter.com/your-twitter)
 - [Personal Website](https://your-website.com)
-
